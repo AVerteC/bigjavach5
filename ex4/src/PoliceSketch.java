@@ -26,6 +26,7 @@ public class PoliceSketch {
             System.out.println("    |              |");
             System.out.println("    | ---     ---  |");
             System.out.println("    |---|o|--|o|---|");
+
             System.out.println("    | ---     ---  |");
             System.out.println("   _|              |_");
             System.out.println("  |_                _|");
